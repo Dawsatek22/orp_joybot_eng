@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/rx3/cppgpio_test/project/orp_joybot.eng/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -g -o CMakeFiles/dctest1.dir/src/dctest1.cpp.o -c /home/rx3/cppgpio_test/project/orp_joybot.eng/src/dctest1.cpp",
+  "file": "/home/rx3/cppgpio_test/project/orp_joybot.eng/src/dctest1.cpp",
+  "output": "CMakeFiles/dctest1.dir/src/dctest1.cpp.o"
+},
+{
+  "directory": "/home/rx3/cppgpio_test/project/orp_joybot.eng/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -g -o CMakeFiles/main.dir/src/main.cpp.o -c /home/rx3/cppgpio_test/project/orp_joybot.eng/src/main.cpp",
+  "file": "/home/rx3/cppgpio_test/project/orp_joybot.eng/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/rx3/cppgpio_test/project/orp_joybot.eng/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -g -o CMakeFiles/joytest.dir/src/testjoy.cpp.o -c /home/rx3/cppgpio_test/project/orp_joybot.eng/src/testjoy.cpp",
+  "file": "/home/rx3/cppgpio_test/project/orp_joybot.eng/src/testjoy.cpp",
+  "output": "CMakeFiles/joytest.dir/src/testjoy.cpp.o"
+}
+]

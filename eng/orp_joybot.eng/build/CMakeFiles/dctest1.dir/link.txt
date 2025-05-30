@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-g++ -g CMakeFiles/dctest1.dir/src/dctest1.cpp.o -o dctest1  -lwiringPi 
