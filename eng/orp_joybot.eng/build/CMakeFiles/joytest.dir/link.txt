@@ -1,1 +1,0 @@
-/usr/bin/aarch64-linux-gnu-g++ -g CMakeFiles/joytest.dir/src/testjoy.cpp.o -o joytest 
