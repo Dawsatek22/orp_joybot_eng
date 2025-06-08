@@ -1,6 +1,6 @@
 # orp_joybot_eng
 A 3d printed Raspberry Pi joystick controlled 2wheeled robot in c++.
-the 3d printed parts are in the parts file
+the 3d printed parts are in the parts file.
 
 
 ![joybot_git_imgEng](https://github.com/user-attachments/assets/d10ce40a-7622-48ba-9270-7a1b6d02a722)
