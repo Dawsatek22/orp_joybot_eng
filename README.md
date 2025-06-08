@@ -4,7 +4,7 @@ A 3d printed Raspberry Pi joystick controlled 2wheeled robot in c++.
 
 
 ![joybot_git_imgEng](https://github.com/user-attachments/assets/d10ce40a-7622-48ba-9270-7a1b6d02a722)
-
+link for the video tutorial video is here:
 # pat1 playlist(00:00):
 # part2(05.02) Warnings and summary:
 This is a project to make orb-joybot.A joystick controlled(xbox one controller for this example but you can tweak it with other bluetooth controlled joystick like ps4)
@@ -13,6 +13,7 @@ raspberry Pi 2wheeled robot in c++.
 The project is assembled with 3d printed parts from open robotic platform(link here :)but code can also used(at your own volition) to build your own custom robot.
 
 This projects is coded in a vscode editor but can be also coded in a another ide if you want. This project uses power supply from 5v to 12v so be careful.
+
 
 # part3(11:17). recommended skills:
 C++ programming,ssh into a raspberry pi to run code,Cmake,
