@@ -4,7 +4,7 @@ the 3d printed parts are in the parts file.
 
 
 ![joybot_git_imgEng](https://github.com/user-attachments/assets/d10ce40a-7622-48ba-9270-7a1b6d02a722)
-link for the video tutorial video is here:
+link for the video tutorial video is here:https://youtu.be/eQq3z37FLZI
 # part1 playlist(00:00):
 # part2(05.02) Warnings and summary:
 This is a project to make orb-joybot.A joystick controlled(xbox one controller for this example but you can tweak it with other bluetooth controlled joystick like ps4)
