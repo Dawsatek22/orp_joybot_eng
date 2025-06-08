@@ -5,8 +5,8 @@ A 3d printed Raspberry Pi joystick controlled 2wheeled robot in c++.
 
 ![joybot_git_imgEng](https://github.com/user-attachments/assets/d10ce40a-7622-48ba-9270-7a1b6d02a722)
 
-# pat1 playlist(need to be made )
-# part2 Warnings and summary:
+# pat1 playlist(00:00):
+# part2(05.02) Warnings and summary:
 This is a project to make orb-joybot.A joystick controlled(xbox one controller for this example but you can tweak it with other bluetooth controlled joystick like ps4)
 raspberry Pi 2wheeled robot in c++.
 
@@ -14,11 +14,11 @@ The project is assembled with 3d printed parts from open robotic platform(link h
 
 This projects is coded in a vscode editor but can be also coded in a another ide if you want. This project uses power supply from 5v to 12v so be careful.
 
-# part3 recommended skills:
+# part3(11:17). recommended skills:
 C++ programming,ssh into a raspberry pi to run code,Cmake,
 3d printing ot arquiring 3d printed parts.
 
-# part4 Recommended tools and parts:
+# part4(14:09) Recommended tools and parts:
 
 Tools(links are for reference and examples):
 pc/laptop,wifi for ssh login,
@@ -52,7 +52,7 @@ parts:
  6x M3x30 mm bolts.
  13x M3x12 mm bolts(because of lack of bolts there are seen other sizes in the example).
  
-# part5 3D printed parts(pla,soft material like tpu):
+# part5(22:08) 3D printed parts(pla,soft material like tpu):
  
  for pla:
  2x rupantar2002-145-BasePlateWheel.stl
@@ -63,3 +63,8 @@ parts:
  1x Radek_Janecka-172-RaspberryPi_holder.stl
  1x nikodembartnik-97-motor_holder_right.stl
  1x nikodembartnik-45-12mm_caster_wheel.3mf
+
+Starting with the 1e layer(1:12).
+Starting with the 2e layer(12:11).
+Final test (17:14).
+Honorable mentions(18:15)
